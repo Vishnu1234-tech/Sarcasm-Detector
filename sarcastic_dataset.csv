@@ -1,0 +1,63 @@
+text,label,sentiment
+"Oh great, more homework.",sarcastic,negative
+"Thanks for your wonderful help, really.",sarcastic,negative
+I just love getting ignored.,sarcastic,negative
+"Yay, another delay!",sarcastic,negative
+Fantastic! It's raining again.,sarcastic,negative
+I love being stuck in traffic.,sarcastic,negative
+"Nice job breaking it, genius.",sarcastic,negative
+You’re always so on time. Not.,sarcastic,negative
+Great! My phone died again.,sarcastic,negative
+"What a surprise, more meetings.",sarcastic,negative
+Amazing! They rejected it again.,sarcastic,negative
+Thanks for the motivation... not.,sarcastic,negative
+That’s exactly what I needed today.,sarcastic,negative
+Love how everything’s broken again.,sarcastic,negative
+Perfect! Another bug in the code.,sarcastic,negative
+You're such a great friend... sure.,sarcastic,negative
+"Just what I wanted, more work.",sarcastic,negative
+I'm so lucky today!,sarcastic,negative
+"Yup, this is going just great.",sarcastic,negative
+"Oh joy, my alarm didn’t go off.",sarcastic,negative
+Brilliant! We missed the deadline.,sarcastic,negative
+"How original, another group project.",sarcastic,negative
+Because I have nothing better to do.,sarcastic,negative
+"Wow, how creative!",sarcastic,negative
+"Oh yes, I *totally* understood that.",sarcastic,neutral
+I love reading books.,non-sarcastic,positive
+She is very helpful.,non-sarcastic,positive
+He did a great job on the project.,non-sarcastic,positive
+The food was delicious.,non-sarcastic,positive
+I enjoy painting in my free time.,non-sarcastic,positive
+They worked really hard.,non-sarcastic,positive
+It’s a beautiful day outside.,non-sarcastic,positive
+Thank you for helping me.,non-sarcastic,positive
+She’s always on time.,non-sarcastic,positive
+I’m excited for the event.,non-sarcastic,positive
+I trust your opinion.,non-sarcastic,positive
+He’s my best friend.,non-sarcastic,positive
+This book is amazing.,non-sarcastic,positive
+I’m feeling very motivated.,non-sarcastic,positive
+We had a great time at the party.,non-sarcastic,positive
+You did excellent work.,non-sarcastic,positive
+I love playing the guitar.,non-sarcastic,positive
+The movie was fantastic!,non-sarcastic,positive
+Let’s go out for a walk.,non-sarcastic,positive
+He’s very talented.,non-sarcastic,positive
+That’s a great idea!,non-sarcastic,positive
+This is my favorite subject.,non-sarcastic,positive
+They always tell the truth.,non-sarcastic,positive
+I’m proud of my achievements.,non-sarcastic,positive
+This is so peaceful.,non-sarcastic,positive
+I love to play,non-sarcastic,positive
+I love to play outside,non-sarcastic,positive
+I love to play guitar,non-sarcastic,positive
+I love to play with my friends,non-sarcastic,positive
+I love to play,non-sarcastic,positive
+I love to play music,non-sarcastic,positive
+I love to play games,non-sarcastic,positive
+I love to play football,non-sarcastic,positive
+I love to play in the evening,non-sarcastic,positive
+I love to play with my friends,non-sarcastic,positive
+Wow! My phone has stopped working,sarcastic,negative
+Wow!!I love to be in hell,sarcastic,negative

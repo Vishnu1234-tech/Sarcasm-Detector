@@ -1,0 +1,59 @@
+Timestamp,Input Text,Prediction,Sentiment,Literal Meaning
+2025-07-09 20:12,I love interruption,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:15,I love reading books,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:15,I love reading books,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:15,I love reading books,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:15,I love reading books,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:15,I love reading books,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:21,I love playing,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:23,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:23,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:23,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:23,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:23,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:26,"Sure, I'd love to stay late again.",Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:27,I’m feeling very motivated.,Not Sarcastic ✅,neutral,This might mean the opposite of what is said.
+2025-07-09 20:27,I love reading books,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:27,I love reading books,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:27,I love reading books,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:27,Brilliant! We missed the deadline.,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:28,I love spending time with my family,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:29,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:29,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:29,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:29,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:29,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:29,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:29,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:29,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:29,I love when my phone battery dies,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:36,I love to play,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:37,I love when people talk over me,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:38,I love to play,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:38,I love to play,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:40,I love to play,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:42,I love to play,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:43,Great! My phone died again.,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:43,Great! My phone died again.,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:43,Great! My phone died again.,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:43,Great! My phone died again.,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:43,Great! My phone died again.,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:44,Great! My phone died again.,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:45,I love icecream,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:45,Great! My phone died,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:45,Great! My phone died,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-09 20:54,Amazing! They rejected it again.,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:54,"Just what I wanted, more work.",Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-09 20:55,I love reading books.,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-10 19:21,Great! My phone died again.,Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-10 19:40,I love this day,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-10 19:41,Wow! ,Sarcastic 😏,neutral,This might mean the opposite of what is said.
+2025-07-10 19:41,Wow! My phone has stopped working,Not Sarcastic ✅,neutral,This might mean the opposite of what is said.
+2025-07-10 19:41,Wow! My phone has stopped working,Not Sarcastic ✅,neutral,This might mean the opposite of what is said.
+2025-07-10 19:42,Wow!! I love to be in hell,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-10 19:43,Wow!! My phone has died,Sarcastic 😏,neutral,This might mean the opposite of what is said.
+2025-07-10 19:48,I love to play with my friends,Not Sarcastic ✅,positive,This might mean the opposite of what is said.
+2025-07-10 20:59,"Wow!!I love to be in hell,sarcastic,negative",Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-10 20:59,"Wow!!I love to be in hell,sarcastic",Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-10 20:59,"Wow!!I love to be in hell,sarcastic",Sarcastic 😏,positive,This might mean the opposite of what is said.
+2025-07-10 21:00,"Wow!!I love to be in hell,sarcastic",Not Sarcastic ✅,positive,This might mean the opposite of what is said.
